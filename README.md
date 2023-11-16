@@ -2,7 +2,7 @@
   MIT license
 
 ## Project Description
- As a developer, I've created a simple logo maker using command-line so that I don't have to utilize a graphic designer.
+This project is a simple logo maker application that uses command-line to create a logo, eliminating the need to use a graphic designer. 
 
 ## Table of Contents
 - [Installation](#installation)
