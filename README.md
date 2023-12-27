@@ -1,5 +1,5 @@
 # SVG Logo Maker
-  MIT license
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Description
 This project is a simple logo maker application that uses command-line to create a logo, eliminating the need to use a graphic designer. 
@@ -8,7 +8,7 @@ This project is a simple logo maker application that uses command-line to create
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Demo](#demo)
 - [Questions](#questions)
 - [License](#licence)
 
@@ -27,13 +27,13 @@ To use this application, the user will work through the following prompts:
 ## Contributing
 To get involved, reference the [Contributing Guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to contribute to this project. 
 
-## Tests
-testing protocol here
+## Demo
+View deployed application video [here.](https://github.com/tugwellchristi/SVG-Logo-Maker/assets/90078824/b4f0f892-1517-4c55-a9c5-16fff6440ec9)
+
 
 ## Questions
 For questions and support, contact:
-- GitHub username: tugwellchristi
-- GitHub link: https://github.com/tugwellchristi
+- GitHub username: [tugwellchristi](https://github.com/tugwellchristi)
 - Email address: tugwellchristi@gmail.com
 
 ## License 
